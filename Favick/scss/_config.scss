@@ -1,0 +1,26 @@
+$font-stack:san-serif;
+$light-color:#f4f4f4;
+$primary-color: #0e6cff;
+$background-color:#050a30;
+$secondary-color: #ff8700;
+$danger-color: red;
+$font-size: 24px;
+
+//  set tex color based on background
+
+// @function set-text-color($color) {
+// @if(lightness($color) > 70) {
+//     @return #333;
+// }
+// @else {
+//     @return #fff;
+// }
+// }
+
+// set background and text color
+
+// @mixin set-background($color) {
+//     background-color: $color;
+//     color: set-text-color($color);
+// }
+
