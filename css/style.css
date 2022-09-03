@@ -1,0 +1,81 @@
+footer {
+  background-color: #050a30;
+  margin-top: 20px;
+}
+footer a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #f4f4f4;
+}
+
+.showcase a {
+  text-decoration: none;
+  color: #f4f4f4;
+}
+
+.navbar {
+  background-color: #050a30;
+}
+.navbar .navbar-brand img {
+  width: 80px;
+}
+.navbar .nav-item a {
+  font-weight: 600;
+}
+
+.about .container h1 {
+  text-align: center;
+  color: #0e6cff;
+}
+.about .container h1 .text-head {
+  font-size: 60px;
+}
+.about .container .btn {
+  align-items: center;
+}
+
+.serve h2 {
+  border-radius: 20px;
+  color: #fff;
+  align-items: center;
+}
+
+.col-md:hover {
+  transform: translate(0px, -8px);
+  transition: 0.4s;
+}
+
+.col-md-6:hover {
+  transform: translate(0px, -8px);
+  transition: 0.4s;
+}
+
+footer table th {
+  font-size: 24px;
+}
+
+.showcase {
+  background-color: #050a30;
+}
+.showcase h1 {
+  font-size: 60px;
+}
+
+.about {
+  background-color: #050a30;
+}
+
+.rounded-circle {
+  width: 100px;
+  height: 80px;
+}
+
+.col-md .card-body {
+  height: 230px;
+}
+
+#services .card {
+  background-color: #050a30;
+}
+
+/*# sourceMappingURL=style.css.map */
